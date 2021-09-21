@@ -1,3 +1,9 @@
 [submodule "pack/ds/start/gruvbox"]
 	path = pack/ds/start/gruvbox
 	url = git@github.com:morhetz/gruvbox.git
+[submodule "pack/ds/start/vim-airline"]
+	path = pack/ds/start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "pack/ds/start/vim-airline-themes"]
+	path = pack/ds/start/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
